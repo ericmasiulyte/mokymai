@@ -1,0 +1,47 @@
+body {
+  background-color: black;
+}
+
+div {
+  background-color: red;
+  font-size: 50px;
+}
+div.manosugalvotas {
+  background-color: blue;
+}
+#teta {
+  background-color: black;
+}
+#teta.nemoku {
+  background-color: white;
+}
+.teta {
+  background-color: beige;
+}
+p {
+  font-size: 50px;
+  color: green;
+}
+
+/*div p{
+    font-size: 100px;
+}
+*/
+#teta p {
+  color: red;
+}
+section > p {
+  font-size: 30px;
+  color: white;
+}
+
+p {
+  font-size: 50px;
+  color: green;
+}
+/*tag,h1,p,div=1
+class, pseudoclass = svoris 10
+id 100  */
+
+/* default stilius eina top/down
+   kuris eina zemiausiai, jeigu ju svoris yra vienodas (1:1) tai tas ji perraso; jeigu tas kur eina zemiau jo, svoris didesnis, jis savaime ji perraso, jeigu per style irgi perraso  */
