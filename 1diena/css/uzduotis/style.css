@@ -179,5 +179,6 @@ tr:first-child th:last-child {
   }
   
 tr:nth-child(even) {
-  background-color: cyan;
-}
+  background-color: cyan;}
+  
+  
